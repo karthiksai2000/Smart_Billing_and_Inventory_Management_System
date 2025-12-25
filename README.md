@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# 🏪 Asha Hardware Billing System  
+
+
+# 🏪 Smart Billing & Inventory Mangaement System  
 ### Enterprise-Grade POS & Inventory Platform
 
 <strong>Production-ready billing and inventory software for hardware, plumbing, and electrical retail.</strong><br/>
